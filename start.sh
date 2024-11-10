@@ -4,3 +4,4 @@ fcitx5 &
 volumeicon &
 slstatus &
 dunst &
+kmix &
