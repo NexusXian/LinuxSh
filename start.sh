@@ -5,3 +5,4 @@ volumeicon &
 slstatus &
 dunst &
 kmix &
+blueman-applet &
